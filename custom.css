@@ -6,7 +6,12 @@ html.dimBackground .slide-background { opacity: 0.4 !important; }
 }
 
 /* images without borders */
-.reveal section img { background:none; border:none; box-shadow:none; }
+.reveal section img {
+  background:none;
+  border:none;
+  box-shadow:none;
+  border-radius: 20px;
+}
 
 .reveal pre {
     box-shadow: none;
@@ -36,8 +41,4 @@ html.dimBackground .slide-background { opacity: 0.4 !important; }
   background: #e7e8e2; /* darker */
   border-radius: 2px;
   padding: 1px;
-}
-
-.reveal section img {
-  border-radius: 20px;
 }
