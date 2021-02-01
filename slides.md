@@ -4,7 +4,7 @@ separator: ^---\n
 verticalSeparator: ^\n\n
 theme: black
 highlight-theme: monokai
-css: custom.css
+css: /custom.css
 revealOptions:
   controls: false
   slideNumber: false
