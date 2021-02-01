@@ -1,5 +1,3 @@
-
-
 # A look at the regulatory code
             
 Jérémie Kalfon - CDS meeting - 02/02
