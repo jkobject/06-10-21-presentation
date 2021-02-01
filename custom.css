@@ -37,3 +37,7 @@ html.dimBackground .slide-background { opacity: 0.4 !important; }
   border-radius: 2px;
   padding: 1px;
 }
+
+.reveal section img {
+  border-radius: 20px;
+}

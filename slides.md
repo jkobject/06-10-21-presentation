@@ -1,8 +1,8 @@
 ---
 title: reveal-md deployed to gh-pages
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: solarized
+separator: ^---\n
+verticalSeparator: ^\n\n
+theme: black
 highlight-theme: monokai
 css: custom.css
 revealOptions:
@@ -12,8 +12,4 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-# reveal-md & github-pages
-
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+{{02-02-21-presentation.md}}
