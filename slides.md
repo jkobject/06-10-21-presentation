@@ -11,5 +11,4 @@ revealOptions:
   transition: 'slide'
   backgroundTransition: 'fade'
 ---
-
 {{02-02-21-presentation.md}}
